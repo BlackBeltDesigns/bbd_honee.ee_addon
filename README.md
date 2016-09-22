@@ -1,6 +1,11 @@
 # bbd_honee.ee_addon
 Hon:EE is an EXTREMELY simple plugin to give you a better spam option than captcha for your forms and UI experience.
 
+![alt text][logo]
+
+Buy me a beer!
+<a href='https://pledgie.com/campaigns/32613'><img alt='Click here to lend your support to: Hon:EE and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/32613.png?skin_name=chrome' border='0' ></a>
+
 ## Usage
 Using forms is a must in today's web world. Don't muddy up your UI with an ugly, unfriendly captcha.
 Use Hon:EE. Using the honeypot technique of providing a hidden field on your form to remain blank,
@@ -42,3 +47,5 @@ This will return:
 <label for="your_class" class="your_class">Your Class</label>
 <input type="text" class="your_class" name="your_class" id="your_class" required value="your_value" tabindex="-1">
 ```
+
+[logo]: https://pledgie.com/assets/campaigns/32613/medium/HonEE.jpg?1474555621 "Hon:EE for EE3"
